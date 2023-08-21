@@ -1,0 +1,7 @@
+httpx>=0.23.0
+protobuf3-to-dict>=0.1.5
+protobuf>=3.19.4
+pyee>=9.0.4
+ffmpy>=0.3.0
+mashumaro>=3.5
+websockets>=10.4
