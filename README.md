@@ -1,5 +1,7 @@
-TikTokLive
+TikTokLiveClone
 ==================
+Original Details:
+
 A Python library to connect to and read events from TikTok's LIVE service.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/isaac-kogan-5a45b9193/ )
